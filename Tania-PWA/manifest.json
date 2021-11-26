@@ -1,0 +1,32 @@
+{
+    "theme_color": "#f1efed",
+    "background_color": "#f37d08",
+    "display": "standalone",
+    "scope": "/",
+    "start_url": "index.html",
+    "short_name": "E-NBA",
+    "name": " NBA",
+    "description": "Todos los equipos de la NBA",
+    "icons": [
+        {
+            "src": "img/icon-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "img/icon-256x256.png",
+            "sizes": "256x256",
+            "type": "image/png"
+        },
+        {
+            "src": "img/icon-384x384.png",
+            "sizes": "384x384",
+            "type": "image/png"
+        },
+        {
+            "src": "img/icon-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
